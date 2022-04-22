@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class DistanceComparator here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * This class sorts two quakes by their distance between from a
+ * certain location.
  */
 
 import java.util.*;

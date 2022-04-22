@@ -1,9 +1,6 @@
 
 /**
- * Write a description of class MagnitudeComparator here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * This class sorts two quakes from minimum to maximum.
  */
 
 import java.util.*;
